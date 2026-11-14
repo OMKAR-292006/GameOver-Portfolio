@@ -4,6 +4,10 @@
 
 GAME OVER is a first-person survival thriller built in Unity. As Tapsee, get to the phone and stay hidden until help arrives. As Don, search the mansion and catch her before rescue. Play either role against AI, or face another player over LAN.
 
+**[Download the Android demo APK](https://github.com/OMKAR-292006/GameOver-Portfolio/raw/refs/heads/main/downloads/GAME-OVER-Portfolio.apk)** · 62 MB · ARM64 · Android 8.0+
+
+Portfolio test build. Unity built it successfully. Physical Android and full LAN testing are pending.
+
 [See the roles](#two-ways-to-play) · [Explore the mansion](#inside-the-mansion) · [Read the engineering breakdown](#what-i-built)
 
 ![GAME OVER title screen showing the mansion in a storm](screenshots/main-menu.png)
